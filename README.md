@@ -7,3 +7,6 @@ This is a test project. A simple To do list project with expo local authenticati
 # Run project
 ```npm run start```
 
+# Run test
+```npm run test```
+
